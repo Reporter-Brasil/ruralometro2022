@@ -17,7 +17,9 @@ O Ruralômetro também possui páginas que apresentam as seleções de 28 votaç
 
 Ao revelar e cruzar essas informações, o Ruralômetro faz um raio-x da atuação da Câmara no atual governo e oferece uma ferramenta de pesquisa para a campanha eleitoral de 2022, já que muitos desses parlamentares concorrerão à reeleição ou a outros cargos no pleito deste ano. 
 
-O Github do Ruralômetro apresenta os programas que foram utilizados para extrair e analisar os dados. Os programas são em Python 3.8 (foi utilizado Jupyter Notebook)
+O Github do Ruralômetro 2022 apresenta os programas que foram utilizados para extrair e analisar os dados. Os programas são em Python 3.8 (foi utilizado Jupyter Notebook)
+
+O repositório do projeto em 2018 está [aqui](https://github.com/Reporter-Brasil/Ruralometro)
 
 ----
  O 
