@@ -17,13 +17,13 @@ O Ruralômetro também possui páginas que apresentam as seleções de 28 votaç
 
 Ao revelar e cruzar essas informações, o Ruralômetro faz um raio-x da atuação da Câmara no atual governo e oferece uma ferramenta de pesquisa para a campanha eleitoral de 2022, já que muitos desses parlamentares concorrerão à reeleição ou a outros cargos no pleito deste ano. 
 
-O Github do Ruralômetro 2022 apresenta os programas que foram utilizados para extrair e analisar os dados. Os programas são em Python 3.8 (foi utilizado Jupyter Notebook)
+O Github do Ruralômetro 2022 apresenta os programas que foram utilizados para extrair e analisar os dados. Os programas são em Python 3.8 (foi utilizado Jupyter Notebook e scripts .py)
 
 O repositório do projeto em 2018 está [aqui](https://github.com/Reporter-Brasil/Ruralometro)
 
 ----
- ### BENS
-É o programa que acessa as declarações de bens dos deputados federais eleitos em 2014 e depois filtra apenas os bens rurais. O grau de transparência da declaração de bens em 2018 caiu e não é mais possível por exemplo saber os tipos de cada bem
+ ### DEPUTADOS
+É o script para acessar a API da Câmara dos Deputados e pegar dados de deputados eleitos em 2018. Contém também arquivo final gerado na extração final de 2022 de acordo com nossa [metodologia](https://ruralometro2022.reporterbrasil.org.br/metodologia)
 
 ### CANDIDATOS
 É o pr
