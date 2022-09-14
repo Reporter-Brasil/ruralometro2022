@@ -2,6 +2,7 @@
 # Repórter Brasil (https://ruralometro2022.reporterbrasil.org.br/)
 # Reinaldo Chaves (@paidatocandeira)
 # Script que procura na API da Câmara dos Deputados (2000-2021) as proposições legislativas de interesse de interesse ambiental e social
+# API - https://dadosabertos.camara.leg.br/swagger/api.html
 
 import requests
 import json
