@@ -31,5 +31,8 @@ Script que procura na API da Câmara dos Deputados (2000-2021) as proposições 
 ### DOAÇÕES
 Cruza os deputados eleitos em 2018 com os dados de doações informados ao TSE para gerar os arquivos gerais de doações diretas, indiretas e originárias
 
-### DOAÇÕES
-Cr
+### EMBARGOS
+Faz o cruzamento de deputados e doações - para saber deputados que podem estar nos embargos do Ibama ou doadores que estão na lista de embargos
+
+### EMBARGOS
+Fa
