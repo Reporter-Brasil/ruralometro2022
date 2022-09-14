@@ -25,5 +25,8 @@ O repositório do projeto em 2018 está [aqui](https://github.com/Reporter-Brasi
  ### DEPUTADOS
 É o script para acessar a API da Câmara dos Deputados e pegar dados de deputados eleitos em 2018. Contém também arquivo final gerado na extração final de 2022 de acordo com nossa [metodologia](https://ruralometro2022.reporterbrasil.org.br/metodologia)
 
-### CANDIDATOS
-É o pr
+### PROPOSIÇÕES
+Script que procura na API da Câmara dos Deputados (2000-2021) as proposições legislativas de interesse de interesse ambiental e social, de acordo com nossa [metodologia](https://ruralometro2022.reporterbrasil.org.br/metodologia) - procura nas ementas das proposições, a partir de palavras-chave definidas. E depois inclui no mesmo dataframe todos os autores - e separa os deputados de 2018
+
+### PROPOSIÇÕES
+Scri
