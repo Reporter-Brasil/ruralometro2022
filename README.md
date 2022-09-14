@@ -22,4 +22,8 @@ O Github do Ruralômetro 2022 apresenta os programas que foram utilizados para e
 O repositório do projeto em 2018 está [aqui](https://github.com/Reporter-Brasil/Ruralometro)
 
 ----
- O 
+ ### BENS
+É o programa que acessa as declarações de bens dos deputados federais eleitos em 2014 e depois filtra apenas os bens rurais. O grau de transparência da declaração de bens em 2018 caiu e não é mais possível por exemplo saber os tipos de cada bem
+
+### CANDIDATOS
+É o pr
