@@ -34,5 +34,8 @@ Cruza os deputados eleitos em 2018 com os dados de doações informados ao TSE p
 ### EMBARGOS
 Faz o cruzamento de deputados e doações - para saber deputados que podem estar nos embargos do Ibama ou doadores que estão na lista de embargos
 
-### EMBARGOS
+### AUTOS IBAMA
+Faz o cruzamento de deputados e doações - para saber deputados que podem estar nos autos de infração do Ibama ou doadores que estão na lista de autos
+
+### AUTOS IBAMA
 Fa
