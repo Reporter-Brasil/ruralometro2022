@@ -2,6 +2,7 @@
 # Repórter Brasil (https://ruralometro2022.reporterbrasil.org.br/)
 # Reinaldo Chaves (@paidatocandeira)
 # Script para acessar a API da Câmara dos Deputados e pegar dados de deputados eleitos em 2018
+# API - https://dadosabertos.camara.leg.br/swagger/api.html
 
 import requests
 import json
