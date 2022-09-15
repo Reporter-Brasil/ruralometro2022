@@ -1,4 +1,4 @@
-[![Ruralômetro](doc/logo_g.png)](https://ruralometro2022.reporterbrasil.org.br/)
+[![Ruralômetro](doc/índice.jpeg)](https://ruralometro2022.reporterbrasil.org.br/)
 
 ----
  O Ruralômetro é um banco de dados e uma ferramenta interativa que avalia a atuação dos deputados federais nas questões ligadas ao meio ambiente, trabalhadores rurais, povos indígenas e outras comunidades tradicionais. Nesta segunda edição do projeto, são avaliados os parlamentares que tomaram posse no início de 2019. Desenvolvida pela Repórter Brasil com uma equipe multidisciplinar, a ferramenta usa duas bases de dados para pontuar os parlamentares: seu posicionamento na votação de projetos de lei e medidas provisórias que apresentam algum impacto socioambiental e as proposições apresentadas por cada um nesta legislatura.
