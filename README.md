@@ -40,5 +40,8 @@ Faz o cruzamento de deputados e doações - para saber deputados que podem estar
 ### AUTOS ICMBIO
 Faz o cruzamento de deputados e doações - para saber deputados que podem estar nos autos de infração do ICMBio ou doadores que estão na lista de autos
 
-### AUTOS ICMBIO
-Fa
+### AUTOS TRABALHISTAS
+Faz o cruzamento de deputados e doações - para saber deputados que podem estar nos autos de infração trabalhista do antigo Ministério do Trabalho ou doadores que estão na lista de autos
+
+### AUTOS TRABALHISTAS
+Faz
