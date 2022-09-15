@@ -52,8 +52,11 @@ Faz cruzamento de nomes para marcar deputados que fazem parte da Frente Parlamen
 ### EMPRESAS NA RECEITA FEDERAL
 Faz o cruzamento de nomes completos e CPFs de deputados com os dados da Receita Federal para obter empresas que os deputados participam do quadro de sócios e administradores (QSA) e também os demais sócios dessas empresas e os outros CNPJs que eles possuem
 
-### EMBARGOS EMPRESAS
+### EMBARGOS DO IBAMA EMPRESAS
 Procura empresas de deputados federais inscritas em embargos do Ibama
 
-### EMBARGOS EMPRESAS
+### AUTOS DO IBAMA EMPRESAS
+Procura empresas de deputados federais inscritas em autos de infração do Ibama
+
+### AUTOS DO IBAMA EMPRESAS
 P
