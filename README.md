@@ -43,5 +43,8 @@ Faz o cruzamento de deputados e doações - para saber deputados que podem estar
 ### AUTOS TRABALHISTAS
 Faz o cruzamento de deputados e doações - para saber deputados que podem estar nos autos de infração trabalhista do antigo Ministério do Trabalho ou doadores que estão na lista de autos
 
-### AUTOS TRABALHISTAS
+### TRABALHO ESCRAVO
+Faz o cruzamento de deputados e doações - para saber deputados que podem estar no Cadastro de Empregadores que tenham submetido trabalhadores a condições análogas à de escravo ou doadores que estão na lista - não encontrou
+
+### TRABALHO ESCRAVO
 Faz
