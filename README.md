@@ -50,7 +50,7 @@ Faz o cruzamento de deputados e doações - para saber deputados que podem estar
 Faz cruzamento de nomes para marcar deputados que fazem parte da Frente Parlamentar da Agropecuária - FPA
 
 ### EMPRESAS NA RECEITA FEDERAL
-Faz o cruzamento de nomes completos e CPFs de deputados com os dados da Receita Federal para obter empresas que os deputados participam do quadro de sócios e administradores (QSA) e também os demais sócios dessas empresas e os outros CNPJs que eles possuem
+Faz o cruzamento de nomes completos e CPFs de deputados com os dados da Receita Federal para obter empresas (ativas e inativas) que os deputados participam do quadro de sócios e administradores (QSA) e também os demais sócios dessas empresas e os outros CNPJs que eles possuem
 
 ### EMBARGOS DO IBAMA EMPRESAS
 Procura empresas de deputados federais inscritas em embargos do Ibama
@@ -63,3 +63,9 @@ Procura empresas de deputados federais inscritas em autos de infração do ICMBi
 
 ### AUTOS TRABALHISTAS EMPRESAS
 Procura empresas de deputados federais inscritas em autos de infração trabalhista do antigo Ministério do Trabalho
+
+### EMPRESAS DE DEPUTADOS COM CNAE DE INTERESSE
+Filtra as empresas de deputados, ativas e inativas e que aparecem no quadro de sócios e administradores (QSA), que possuem Classificação Nacional de Atividades Econômicas – CNAE com atividades relacionadas à agricultura ou extração que envolva questões ambientais
+
+### AUTOS TRABALHISTAS EMPRESAS
+Pr
