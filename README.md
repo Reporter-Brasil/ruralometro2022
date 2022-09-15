@@ -46,5 +46,8 @@ Faz o cruzamento de deputados e doações - para saber deputados que podem estar
 ### TRABALHO ESCRAVO
 Faz o cruzamento de deputados e doações - para saber deputados que podem estar no Cadastro de Empregadores que tenham submetido trabalhadores a condições análogas à de escravo ou doadores que estão na lista - não encontrou
 
-### TRABALHO ESCRAVO
+### BANCADA RURALISTA
+Faz cruzamento de nomes para marcar deputados que fazem parte da Frente Parlamentar da Agropecuária - FPA
+
+### BANCADA RURALISTA
 Faz
