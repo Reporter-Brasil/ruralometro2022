@@ -11,7 +11,7 @@ Cada deputado ganhou uma pontuação individual, que leva em conta os projetos q
 
 A escala varia entre 36ºC e 42ºC. A temperatura de 37,3ºC é considerada neutra. Valores menores que esse indicam os parlamentares que tiveram uma atuação dentro da Câmara considerada favorável na temática socioambiental. Acima dessa temperatura, o desempenho foi desfavorável.
 
-Além do cálculo da temperatura, o Ruralômetro reúne outros dados que podem influenciar a atuação política do parlamentar ou que são de interesse público, como as infrações ambientais e trabalhistas que ele e seus financiadores cometeram. Essas e outras informações adicionais são mostradas no gráfico por meio de filtros de visualização (leia mais sobre os filtros abaixo).
+Além do cálculo da temperatura, o Ruralômetro reúne outros dados que podem influenciar a atuação política do parlamentar ou que são de interesse público, como as infrações ambientais e trabalhistas que ele e seus financiadores cometeram. Essas e outras informações adicionais são mostradas no gráfico por meio de filtros de visualização (leia mais sobre os filtros na [metodologia](https://ruralometro2022.reporterbrasil.org.br/metodologia)).
 
 O Ruralômetro também possui páginas que apresentam as seleções de 28 votações nominais ocorridas na Câmara e de quase 500 propostas apresentadas pelos deputados na atual legislatura e que têm impacto no campo socioambiental. Além disso, o site traz ainda uma série de reportagens analisando os dados recolhidos.
 
