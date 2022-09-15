@@ -61,5 +61,5 @@ Procura empresas de deputados federais inscritas em autos de infração do Ibama
 ### AUTOS DO ICMBIO EMPRESAS
 Procura empresas de deputados federais inscritas em autos de infração do ICMBio
 
-### AUTOS DO ICMBIO EMPRESAS
-Pro
+### AUTOS TRABALHISTAS EMPRESAS
+Procura empresas de deputados federais inscritas em autos de infração trabalhista do antigo Ministério do Trabalho
