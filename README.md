@@ -73,5 +73,8 @@ Lista os IDs dos doadores de deputados inscritos nas listas de irregularidades d
 ### VOTAÇÕES
 Captura as informações de votações nominais parlamentares escolhidas no Ruralômetro. Dados vindos da API da Câmara
 
-### VOTAÇÕES
-Cap
+### AUTORES DE PROPOSIÇÕES
+Captura as informações de autores de proposições legislativas escolhidas no Ruralômetro. Dados vindos da API da Câmara
+
+### AUTORES DE PROPOSIÇÕES
+Capt
