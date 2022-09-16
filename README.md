@@ -70,5 +70,8 @@ Filtra as empresas de deputados, ativas e inativas e que aparecem no quadro de s
 ### MULTAS DE EMPRESAS DE DOADORES
 Lista os IDs dos doadores de deputados inscritos nas listas de irregularidades do projeto, eliminando repetições. Lista as empresas dos doadores, a partir dos IDs. Verifica se as empresas estão nas listas de irregularidades
 
-### EMPRESAS DE DEPUTADOS COM CNAE DE INTERESSE
-Fi
+### VOTAÇÕES
+Captura as informações de votações nominais parlamentares escolhidas no Ruralômetro. Dados vindos da API da Câmara
+
+### VOTAÇÕES
+Cap
