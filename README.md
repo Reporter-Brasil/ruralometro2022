@@ -67,5 +67,8 @@ Procura empresas de deputados federais inscritas em autos de infração trabalhi
 ### EMPRESAS DE DEPUTADOS COM CNAE DE INTERESSE
 Filtra as empresas de deputados, ativas e inativas e que aparecem no quadro de sócios e administradores (QSA), que possuem Classificação Nacional de Atividades Econômicas – CNAE com atividades relacionadas à agricultura ou extração que envolva questões ambientais
 
-### AUTOS TRABALHISTAS EMPRESAS
-Pr
+### MULTAS DE EMPRESAS DE DOADORES
+Lista os IDs dos doadores de deputados inscritos nas listas de irregularidades do projeto, eliminando repetições. Lista as empresas dos doadores, a partir dos IDs. Verifica se as empresas estão nas listas de irregularidades
+
+### EMPRESAS DE DEPUTADOS COM CNAE DE INTERESSE
+Fi
