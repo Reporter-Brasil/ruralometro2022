@@ -79,4 +79,5 @@ Captura as informações de autores de proposições legislativas escolhidas no 
 ### SOMA DOAÇÕES
 Scripts para somar, sem repetições as doações dos deputados em 2018 - relacionadas às listas de pessoas/empresas no Ibama/ICMBio/infrações trabalhistas, e também separa as doações em geral de cada candidato analisado pelo projeto
 
-
+### TEMPERATURA
+A partir da metodologia do projeto (https://ruralometro2022.reporterbrasil.org.br/metodologia), que avalia os deputados a partir de critérios e atribui notas, este script cruza os resultados com o id_interno da Câmara para criar um banco de dados único
