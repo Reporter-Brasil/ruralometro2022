@@ -76,5 +76,7 @@ Captura as informações de votações nominais parlamentares escolhidas no Rura
 ### AUTORES DE PROPOSIÇÕES
 Captura as informações de autores de proposições legislativas escolhidas no Ruralômetro. Dados vindos da API da Câmara
 
-### AUTORES DE PROPOSIÇÕES
-Capt
+### SOMA DOAÇÕES
+Scripts para somar, sem repetições as doações dos deputados em 2018 - relacionadas às listas de pessoas/empresas no Ibama/ICMBio/infrações trabalhistas, e também separa as doações em geral de cada candidato analisado pelo projeto
+
+
