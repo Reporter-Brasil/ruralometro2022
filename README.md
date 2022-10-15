@@ -1,7 +1,7 @@
 [![Ruralômetro](doc/índice.jpeg)](https://ruralometro2022.reporterbrasil.org.br/)
 
 ----
- O Ruralômetro é um banco de dados e uma ferramenta interativa que avalia a atuação dos deputados federais nas questões ligadas ao meio ambiente, trabalhadores rurais, povos indígenas e outras comunidades tradicionais. Nesta segunda edição do projeto, são avaliados os parlamentares que tomaram posse no início de 2019. Desenvolvida pela Repórter Brasil com uma equipe multidisciplinar, a ferramenta usa duas bases de dados para pontuar os parlamentares: seu posicionamento na votação de projetos de lei e medidas provisórias que apresentam algum impacto socioambiental e as proposições apresentadas por cada um nesta atual legislatura.
+ O [Ruralômetro](https://ruralometro2022.reporterbrasil.org.br) é um banco de dados e uma ferramenta interativa que avalia a atuação dos deputados federais nas questões ligadas ao meio ambiente, trabalhadores rurais, povos indígenas e outras comunidades tradicionais. Nesta segunda edição do projeto, são avaliados os parlamentares que tomaram posse no início de 2019. Desenvolvida pela Repórter Brasil com uma equipe multidisciplinar, a ferramenta usa duas bases de dados para pontuar os parlamentares: seu posicionamento na votação de projetos de lei e medidas provisórias que apresentam algum impacto socioambiental e as proposições apresentadas por cada um nesta atual legislatura.
 
 Foram convidadas para avaliar o mérito de cada proposta 22 organizações não-governamentais. Elas classificaram os projetos votados e apresentados como favoráveis ou desfavoráveis para o meio ambiente e as populações do campo. Todas são referência nas áreas em que atuam e executaram a tarefa voluntariamente – motivo pelo qual este projeto lhes deve sinceros agradecimentos. São elas:
 
@@ -81,3 +81,32 @@ Scripts para somar, sem repetições as doações dos deputados em 2018 - relaci
 
 ### TEMPERATURA
 A partir da metodologia do projeto (https://ruralometro2022.reporterbrasil.org.br/metodologia), que avalia os deputados a partir de critérios e atribui notas, este script cruza os resultados com o id_interno da Câmara para criar um banco de dados único
+
+
+
+-------
+
+
+equipe
+
+COORDENAÇÃO Gisele Lobato e Ana Magalhães
+
+EDIÇÃO Gisele Lobato, Ana Magalhães e Diego Junqueira
+
+PESQUISA Guilherme Zocchio e Gisele Lobato
+
+REPORTAGEM Diego Junqueira, Marina Rossi, Daniel Camargos, Joyce Cardoso, Gisele Lobato, Pedro Rocha Franco, Hélen Freitas e Ariene Susui
+
+PROCESSAMENTO DE DADOS Reinaldo Chaves
+
+ANÁLISE DE DADOS Marina Gama Cubas e Reinaldo Chaves
+
+CONSULTORIA ESTATÍSTICA Simone Harnik
+
+PROJETO GRÁFICO Studio Cubo Web
+
+PROGRAMAÇÃO Paulo Campos e André Mota (Studio Cubo Web)
+
+REDES SOCIAIS E DIVULGAÇÃO Tamyres Matos, Joyce Cardoso, Mariana Della Barba e Disarme Grafico (Bruno Ventura, Andressa Liebermann, Bruno Gentil, Daniel Ventura, Marina Hirakawa, Alex Mota, Diego Gomes e Saulo Castro)
+
+ASSESSORIA DE IMPRENSA Elenita Fogaça Comunicação
